@@ -16,11 +16,11 @@ Enter Mentee Consulting—a firm specializing in AI-driven business solutions an
 
 2. To get started, first install the dependencies using:
 
-1. pip install -r requirements.txt
+        pip install -r requirements.txt
    
 3. Run the streamlit app:
 
-streamlit run app/main.py
+        streamlit run app/main.py
 
 Copyright (C) Codebasics Inc. All rights reserved.
 Additional Terms: This software is licensed under the MIT License. However, commercial use of this software is strictly prohibited without prior written permission from the author. Attribution must be given in all copies or substantial portions of the software.
